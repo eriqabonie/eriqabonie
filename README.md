@@ -3,8 +3,8 @@
 ![A web developer based in Manchester, UK](https://github.com/eriqabonie/eriqabonie/blob/main/Eriq%20Abonie%20Card.jpg)
 
 I enjoy learning languages and frameworks like React and React Native. I also work in WordPress. 
-#### My Skills
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+#### Tech I work with:
+
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"><img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/html5/html5-original.svg" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"><img align="left" alt="CSS3" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/css3/css3-original.svg" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/sass/sass-original.svg"><img align="left" alt="Sass" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/sass/sass-original.svg" style="max-width: 100%;"></a></p>
@@ -26,10 +26,9 @@ I enjoy learning languages and frameworks like React and React Native. I also wo
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/trello/trello-plain.svg"><img align="left" alt="Trello" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/trello/trello-plain.svg" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain.svg"><img align="left" alt="Ubuntu" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/ubuntu/ubuntu-plain.svg" style="max-width: 100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/vscode/vscode-original.svg" style="max-width: 100%;"></a></p>
-</article>
+
 
 #
-##
 
 [![Eriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriqabonie)](https://github.com/eriqabonie/github-readme-stats)
 
