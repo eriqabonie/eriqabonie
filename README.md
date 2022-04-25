@@ -37,3 +37,7 @@ I enjoy learning languages and frameworks like React and React Native. I also wo
 - 🌱 I’m currently learning to master the JS ecosystem.
 - 👯 I’m looking to collaborate on fun projects with devs from all walks of life.
 
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriqabonie)](https://github.com/eriqabonie/github-readme-stats)
+-->
+
