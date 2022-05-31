@@ -2,7 +2,9 @@
 #### A web developer based in Manchester, UK
 ![A web developer based in Manchester, UK](https://github.com/eriqabonie/eriqabonie/blob/main/EA_card.jpg)
 
-I enjoy learning languages and frameworks like React and React Native. I also work in WordPress. 
+I've been building website for a long time. Started out with just HTML and CSS. (aaaaahhhh...the good 'ol days)
+Now I build Single Page Applications using REACT.js, Node and Express.js
+I enjoy learning languages and working with various frameworks and libraries.
 #### Tech I work with:
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"><img align="left" alt="HTML5" width="26px" src="https://github.com/devicons/devicon/raw/v2.15.1/icons/html5/html5-original.svg" style="max-width: 100%;"></a></p>
