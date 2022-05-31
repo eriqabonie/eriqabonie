@@ -1,6 +1,6 @@
 ### Hey, I'm Eriq 
 #### A web developer based in Manchester, UK
-![A web developer based in Manchester, UK](https://github.com/eriqabonie/eriqabonie/blob/main/Eriq%20Abonie%20Card.jpg)
+![A web developer based in Manchester, UK](https://github.com/eriqabonie/eriqabonie/blob/main/EA_card.jpg)
 
 I enjoy learning languages and frameworks like React and React Native. I also work in WordPress. 
 #### Tech I work with:
