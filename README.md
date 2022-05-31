@@ -34,8 +34,7 @@ I enjoy learning languages and working with various frameworks and libraries.
 
 [![Eriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriqabonie)](https://github.com/eriqabonie/github-readme-stats)
 
-- 🔭 I’m currently practicing what I learnt during the recently completed Full Stack Bootcamp with Manchester Codes.
-- 🌱 I’m currently learning to master the JS ecosystem.
+- 🌱 I’m currently working on a few personal projects while learning to master the JS ecosystem.
 - 👯 I’m looking to collaborate on fun projects with devs from all walks of life.
 
 <!--
